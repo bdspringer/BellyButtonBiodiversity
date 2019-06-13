@@ -7,4 +7,4 @@ https://hw15belleybutton.herokuapp.com/
 
 
 
-![myimage-alt-tag](https://github.com/bdspringer/Belly-Button-Biodiversity/blob/master/BellyButtonBiodiversityDashboard.PNG)
+![myimage-alt-tag](https://github.com/bdspringer/BellyButtonBiodiversity/blob/master/BellyButtonBiodiversityDashboard.PNG)
